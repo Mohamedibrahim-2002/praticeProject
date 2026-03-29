@@ -1,1 +1,1 @@
-console.log('VS Code Ready');
+console.log('Version 2.0');
