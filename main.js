@@ -1,1 +1,1 @@
-console.log('conflict from feature branch');
+console.log('final merged version');
