@@ -1,1 +1,1 @@
-console.log('feature branch change');
+console.log('conflict from feature branch');
